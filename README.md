@@ -1,1 +1,1 @@
-# sales-data-analytics-project
+# Convenience Store sales analytics (ONGOING)
