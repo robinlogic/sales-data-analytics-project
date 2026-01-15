@@ -16,16 +16,14 @@ The goal of this project series is to support evidence-based business decisions 
 
 Each study focuses on a specific operational problem faced by the store, using transaction-level data to generate actionable insights.
 
-```📁 Project Structure
+### 📁 Project Structure
+```
 /cigarette-cross-sales-study
     ├── study_in_cigarettes.ipynb
     ├── data/
     └── README.md
 
-/coming-soon
-    ├── snack-demand-study
-    ├── beverage-margin-analysis
-    ├── stockout-risk-model
+... < more_coming_soon >
 ```
 
 ## 📌 Current Study: Cigarettes as Traffic Drivers & Capital Lock-Up Business problem
