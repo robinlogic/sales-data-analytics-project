@@ -1,0 +1,8 @@
+# macOS junk
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+**/.DS_Store
+**/.ipynb_checkpoints/
