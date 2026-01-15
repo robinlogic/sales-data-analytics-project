@@ -18,7 +18,7 @@ Each study focuses on a specific operational problem faced by the store, using t
 
 ### 📁 Project Structure
 ```
-/cigarette-cross-sales-study
+/cigarettes-cross-sales-study
     ├── study_in_cigarettes.ipynb
     ├── data/
     └── README.md
