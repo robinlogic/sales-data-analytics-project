@@ -40,7 +40,7 @@ This raised a strategic question:
 
 * Do cigarette purchases generate cross-sales?
 
-* Which cigarette SKUs contribute meaningful indirect value?
+* Which cigarette storekeeping units (SKUs) contribute meaningful indirect value?
 
 * How should cigarette products be structured from a portfolio perspective?
 
@@ -72,7 +72,7 @@ This raised a strategic question:
 
 * Cigarettes function as traffic anchors, not standalone profit drivers.
 
-* Cross-sale impact is uneven across storekeeping units (SKUs). A small subset of products reliably support baskets, while many contribute little indirect value.
+* Cross-sale impact is uneven across SKUs. A small subset of products reliably support baskets, while many contribute little indirect value.
 
 ## Business implications
 
